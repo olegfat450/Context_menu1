@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Context_menu</string>
+    <string name="button1">"Оценка за урок"</string>
+    <string name="button2">Случайное число</string>
+</resources>
